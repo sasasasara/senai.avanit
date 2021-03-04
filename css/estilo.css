@@ -1,0 +1,143 @@
+nav{
+    margin-bottom: 20px;
+}
+
+header{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.header-image-logo{
+    width: 40%;
+}
+
+.header-image-logo-inscricao{
+    width: 15%;
+    margin-bottom: 20px;
+}
+
+.navbar-color{
+    color: #144561f5 !important;
+}
+
+footer a{
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.div-login{
+    width: 100%;
+    text-align: right;
+}
+
+.container-projeto{
+    background-color: #1482c2cc;
+}
+
+.h2-projeto{
+    padding-top: 35px;
+    padding-left: 20px;
+    color: #fff;
+}
+
+.p-justificado{
+    margin-top: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.row-img-projeto{
+    padding-top: 20px;
+}
+
+.h2-informacao{
+    padding-top: 55px;
+    color: #144561f5;
+}
+
+.strong-informacao{
+    color: #144561f5;
+    font-weight: bold;
+}
+
+.container-informacao{
+    padding-top: 20px;
+}
+
+.container-informacao-text{
+    text-align: center;
+}
+
+.h2-inscricao{
+    color: #fff;
+    padding-top: 55px;
+    padding-left: 20px;
+}
+
+.p-color-white{
+    color: #fff;
+}
+
+.container-inscricao{
+    padding-top: 20px;
+    background-color: #1482c2cc;
+}
+
+.btn-inscricao{
+    width: 100%;
+    margin: 5px;
+    margin-top: 25px;
+}
+
+.btn-edital{
+    width: 100%;
+    margin: 5px;
+    margin-bottom: 15px;
+}
+
+.container-cronograma{
+    padding-top: 20px;
+}
+
+.h2-center{
+    text-align: center;
+}
+
+.container-apoio{
+    color: #fff;
+    background-color: #1482c2cc;
+    text-align: center;
+}
+
+.label-apoio-titulo{
+    margin-top: 20px;
+    width: 100%;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.footer-image-logo{
+    width: 140px;
+    margin-bottom: 20px;
+}
+
+.footer-row{
+    text-align: center;
+}
+
+.footer-a:hover {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 450px){
+    .header-image-logo{
+        width: 70%;
+    }
+ 
+    .header-image-logo-inscricao{
+        width: 70%;
+    }
+ 
+}
